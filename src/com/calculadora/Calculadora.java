@@ -7,6 +7,7 @@ public class Calculadora {
         int b = 3;
 
         System.out.println("---Calculadora---");
+        System.out.println("Multiplication: " + (a * b));
         System.out.println("Suma: " + (a + b));
     }
 }
