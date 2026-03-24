@@ -8,5 +8,6 @@ public class Calculadora {
 
         System.out.println("---Calculadora---");
         System.out.println("Multiplication: " + (a * b));
+        System.out.println("Suma: " + (a + b));
     }
 }
