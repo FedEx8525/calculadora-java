@@ -11,7 +11,12 @@ public class Calculadora {
         System.out.println("Suma: " + (a + b));
     }
 
+
     public static int multi(int a, int b) {
+        return a * b;
+    }
+
+    public static int sumar(int a, int b) {
         return a * b;
     }
 }
