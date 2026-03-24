@@ -7,6 +7,6 @@ public class Calculadora {
         int b = 3;
 
         System.out.println("---Calculadora---");
-        System.out.println("Operation: " + (a + b));
+        System.out.println("Suma: " + (a + b));
     }
 }
