@@ -10,4 +10,8 @@ public class Calculadora {
         System.out.println("Multiplication: " + (a * b));
         System.out.println("Suma: " + (a + b));
     }
+
+    public static int multi(int a, int b) {
+        return a * b;
+    }
 }
